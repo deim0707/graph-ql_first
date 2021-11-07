@@ -1,0 +1,31 @@
+.App {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.inputLine {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.users {
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.user {
+    display: flex;
+    justify-content: space-between;
+}
+
+.infoLine {
+    display: flex;
+    flex-direction: column;
+}
